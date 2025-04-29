@@ -14,4 +14,19 @@ Thumbs.db
 *.ntvs*
 *.njsproj
 *.sln
-*.sw? 
+*.sw?
+
+# Application Backups
+zed_tracker_backup_*.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore JSON backup files
+*.json 
